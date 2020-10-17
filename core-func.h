@@ -6,8 +6,7 @@ using namespace std;
 
 
 // Мощности алфавитов букв латинского алфавита и цифр:
-const unsigned int numbers_pow = 10,
-		letters_pow = 26;
+const unsigned int numbers_pow = 10, letters_pow = 26;
 
 /*
  * Функции, выполняющие шифрование и дешифрование.
